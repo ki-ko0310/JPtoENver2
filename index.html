@@ -101,8 +101,8 @@
       const q = quizData[current];
       const cleanWord = q.word.includes('_') ? q.word.split('_')[0] : q.word;
       document.getElementById('question').textContent = `「${cleanWord}」の英訳は？`;
-      document.getElementById('pronunciation').textContent = `発音: ${q.pronunciation}`;
-      document.getElementById('pronunciation').style.display = 'block';
+      // document.getElementById('pronunciation').textContent = `発音: ${q.pronunciation}`;
+      // document.getElementById('pronunciation').style.display = 'block';
       document.getElementById('synonyms').style.display = 'none';
 
       const opts = shuffle([...q.options]);
