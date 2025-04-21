@@ -118,8 +118,10 @@
           const isCorrect = opt === q.correct;
           if (isCorrect) score++;
           total++;
-          document.getElementById('feedback').textContent =
-            isCorrect ? "正解！🎉" : `不正解。正解は：${q.correct}`;
+         document.getElementById('feedback').textContent =
+  isCorrect
+    ? `正解！🎉（${q.correct} / ${q.pronunciation}）`
+    : `不正解。正解は：${q.correct} / ${q.pronunciation}`;
           document.getElementById('synonyms').textContent = `類義語: ${q.synonyms.join(", ")}`;
           document.getElementById('synonyms').style.display = 'block';
           document.getElementById('next-btn').style.display = 'inline-block';
