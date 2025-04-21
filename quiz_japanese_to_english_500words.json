@@ -1,0 +1,8002 @@
+[
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "violate",
+      "allocate",
+      "retain"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "retain",
+      "advocate",
+      "inhibit",
+      "allocate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "sustain",
+      "retain",
+      "alleviate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "disclose",
+      "retain",
+      "assess",
+      "allocate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "alleviate",
+      "collaborate",
+      "anticipate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "implement",
+      "alleviate",
+      "collaborate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "compensate",
+      "deteriorate",
+      "comply",
+      "allocate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "retain",
+      "deteriorate",
+      "disclose",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "deteriorate",
+      "endorse",
+      "compensate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "compensate",
+      "advocate",
+      "violate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "alleviate",
+      "disclose",
+      "violate",
+      "assess"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "allocate",
+      "implement",
+      "inhibit",
+      "disclose"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "anticipate",
+      "sustain",
+      "violate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "collaborate",
+      "violate",
+      "advocate",
+      "retain"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "comply",
+      "anticipate",
+      "inhibit",
+      "refine"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "endorse",
+      "retain",
+      "violate",
+      "assess"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "sustain",
+      "speculate",
+      "assess",
+      "implement"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "contradict",
+      "inhibit",
+      "compensate",
+      "comply"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "endorse",
+      "retain",
+      "contradict",
+      "advocate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "disclose",
+      "allocate",
+      "refine",
+      "implement"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "anticipate",
+      "refine",
+      "sustain"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "advocate",
+      "assess",
+      "mitigate",
+      "endorse"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "comply",
+      "sustain",
+      "endorse",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "inhibit",
+      "disclose",
+      "alleviate",
+      "violate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "assess",
+      "sustain",
+      "speculate",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "advocate",
+      "mitigate",
+      "implement",
+      "violate"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "refine",
+      "mitigate",
+      "compensate",
+      "implement"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "speculate",
+      "collaborate",
+      "allocate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "contradict",
+      "speculate",
+      "endorse",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "allocate",
+      "endorse",
+      "violate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "inhibit",
+      "sustain",
+      "anticipate",
+      "assess"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "assess",
+      "mitigate",
+      "speculate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "sustain",
+      "refine",
+      "retain",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "compensate",
+      "disclose",
+      "deteriorate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "inhibit",
+      "disclose",
+      "endorse",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "endorse",
+      "comply",
+      "retain",
+      "advocate"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "anticipate",
+      "speculate",
+      "alleviate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "implement",
+      "comply",
+      "mitigate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "speculate",
+      "assess",
+      "contradict",
+      "implement"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "collaborate",
+      "refine",
+      "deteriorate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "deteriorate",
+      "sustain",
+      "speculate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "advocate",
+      "deteriorate",
+      "retain",
+      "implement"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "implement",
+      "sustain",
+      "retain",
+      "disclose"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "comply",
+      "deteriorate",
+      "disclose",
+      "endorse"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "alleviate",
+      "compensate",
+      "contradict",
+      "endorse"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "refine",
+      "sustain",
+      "implement",
+      "contradict"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "sustain",
+      "compensate",
+      "advocate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "alleviate",
+      "collaborate",
+      "mitigate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "violate",
+      "refine",
+      "endorse",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "violate",
+      "compensate",
+      "deteriorate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "refine",
+      "advocate",
+      "inhibit",
+      "assess"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "violate",
+      "sustain",
+      "allocate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "disclose",
+      "contradict",
+      "anticipate",
+      "implement"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "comply",
+      "collaborate",
+      "refine",
+      "contradict"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "inhibit",
+      "advocate",
+      "anticipate",
+      "endorse"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "deteriorate",
+      "advocate",
+      "retain",
+      "implement"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "retain",
+      "comply",
+      "speculate",
+      "endorse"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "comply",
+      "sustain",
+      "anticipate",
+      "assess"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "assess",
+      "allocate",
+      "speculate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "refine",
+      "alleviate",
+      "anticipate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "advocate",
+      "retain",
+      "violate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "advocate",
+      "speculate",
+      "violate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "retain",
+      "inhibit",
+      "collaborate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "comply",
+      "disclose",
+      "collaborate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "alleviate",
+      "violate",
+      "contradict",
+      "sustain"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "comply",
+      "implement",
+      "speculate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "contradict",
+      "compensate",
+      "allocate",
+      "refine"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "deteriorate",
+      "speculate",
+      "violate",
+      "retain"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "sustain",
+      "compensate",
+      "mitigate",
+      "endorse"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "violate",
+      "disclose",
+      "deteriorate",
+      "refine"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "retain",
+      "assess",
+      "violate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "alleviate",
+      "violate",
+      "mitigate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "deteriorate",
+      "comply",
+      "disclose",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "collaborate",
+      "contradict",
+      "retain",
+      "speculate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "contradict",
+      "mitigate",
+      "endorse",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "anticipate",
+      "alleviate",
+      "speculate",
+      "retain"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "speculate",
+      "collaborate",
+      "retain",
+      "assess"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "deteriorate",
+      "comply",
+      "refine",
+      "speculate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "comply",
+      "inhibit",
+      "speculate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "refine",
+      "deteriorate",
+      "anticipate",
+      "retain"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "deteriorate",
+      "mitigate",
+      "retain",
+      "advocate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "advocate",
+      "implement",
+      "speculate",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "inhibit",
+      "sustain",
+      "deteriorate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "mitigate",
+      "disclose",
+      "inhibit",
+      "allocate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "alleviate",
+      "mitigate",
+      "allocate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "endorse",
+      "inhibit",
+      "advocate",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "compensate",
+      "implement",
+      "mitigate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "comply",
+      "mitigate",
+      "retain",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "endorse",
+      "disclose",
+      "anticipate",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "mitigate",
+      "violate",
+      "deteriorate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "mitigate",
+      "assess",
+      "endorse",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "disclose",
+      "comply",
+      "inhibit",
+      "allocate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "anticipate",
+      "retain",
+      "alleviate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "retain",
+      "allocate",
+      "violate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "inhibit",
+      "implement",
+      "deteriorate",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "advocate",
+      "retain",
+      "compensate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "collaborate",
+      "sustain",
+      "speculate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "comply",
+      "collaborate",
+      "violate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "implement",
+      "contradict",
+      "disclose",
+      "speculate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "disclose",
+      "comply",
+      "refine",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "endorse",
+      "violate",
+      "mitigate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "anticipate",
+      "speculate",
+      "violate",
+      "advocate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "comply",
+      "anticipate",
+      "refine",
+      "sustain"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "disclose",
+      "allocate",
+      "endorse",
+      "sustain"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "mitigate",
+      "alleviate",
+      "refine",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "allocate",
+      "disclose",
+      "implement",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "violate",
+      "assess",
+      "refine",
+      "compensate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "deteriorate",
+      "assess",
+      "alleviate",
+      "implement"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "endorse",
+      "deteriorate",
+      "retain",
+      "disclose"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "collaborate",
+      "retain",
+      "alleviate",
+      "violate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "sustain",
+      "violate",
+      "assess",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "retain",
+      "allocate",
+      "mitigate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "refine",
+      "anticipate",
+      "retain",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "compensate",
+      "sustain",
+      "contradict",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "inhibit",
+      "implement",
+      "sustain",
+      "endorse"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "assess",
+      "allocate",
+      "retain",
+      "contradict"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "disclose",
+      "speculate",
+      "implement",
+      "sustain"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "disclose",
+      "implement",
+      "comply",
+      "compensate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "allocate",
+      "comply",
+      "contradict",
+      "endorse"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "refine",
+      "speculate",
+      "sustain",
+      "endorse"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "implement",
+      "inhibit",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "retain",
+      "advocate",
+      "refine",
+      "speculate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "contradict",
+      "endorse",
+      "anticipate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "endorse",
+      "assess",
+      "implement",
+      "disclose"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "refine",
+      "deteriorate",
+      "assess",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "implement",
+      "retain",
+      "sustain",
+      "speculate"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "compensate",
+      "implement",
+      "refine",
+      "assess"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "refine",
+      "deteriorate",
+      "retain",
+      "violate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "speculate",
+      "endorse",
+      "contradict",
+      "implement"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "compensate",
+      "sustain",
+      "deteriorate",
+      "violate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "contradict",
+      "allocate",
+      "advocate",
+      "assess"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "contradict",
+      "allocate",
+      "deteriorate",
+      "endorse"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "alleviate",
+      "assess",
+      "disclose",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "collaborate",
+      "retain",
+      "deteriorate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "contradict",
+      "inhibit",
+      "refine",
+      "violate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "allocate",
+      "retain",
+      "contradict",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "mitigate",
+      "contradict",
+      "speculate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "inhibit",
+      "disclose",
+      "comply",
+      "sustain"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "collaborate",
+      "allocate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "contradict",
+      "refine",
+      "anticipate",
+      "advocate"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "speculate",
+      "mitigate",
+      "disclose",
+      "implement"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "advocate",
+      "endorse",
+      "speculate",
+      "compensate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "contradict",
+      "inhibit",
+      "sustain",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "contradict",
+      "disclose",
+      "allocate",
+      "refine"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "speculate",
+      "collaborate",
+      "alleviate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "anticipate",
+      "contradict",
+      "advocate",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "contradict",
+      "compensate",
+      "retain",
+      "assess"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "collaborate",
+      "deteriorate",
+      "assess",
+      "speculate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "sustain",
+      "endorse",
+      "disclose",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "allocate",
+      "violate",
+      "advocate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "assess",
+      "comply",
+      "deteriorate",
+      "implement"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "refine",
+      "allocate",
+      "sustain",
+      "advocate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "allocate",
+      "deteriorate",
+      "advocate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "collaborate",
+      "refine",
+      "retain",
+      "advocate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "advocate",
+      "alleviate",
+      "mitigate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "retain",
+      "advocate",
+      "disclose",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "violate",
+      "speculate",
+      "collaborate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "comply",
+      "collaborate",
+      "mitigate",
+      "violate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "refine",
+      "assess",
+      "violate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "comply",
+      "advocate",
+      "contradict",
+      "refine"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "compensate",
+      "allocate",
+      "assess"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "alleviate",
+      "advocate",
+      "contradict",
+      "retain"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "contradict",
+      "sustain",
+      "assess",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "deteriorate",
+      "disclose",
+      "refine",
+      "compensate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "disclose",
+      "advocate",
+      "alleviate",
+      "assess"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "implement",
+      "mitigate",
+      "anticipate",
+      "violate"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "anticipate",
+      "compensate",
+      "alleviate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "endorse",
+      "allocate",
+      "sustain",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "assess",
+      "endorse",
+      "retain",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "sustain",
+      "contradict",
+      "violate",
+      "advocate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "alleviate",
+      "assess",
+      "deteriorate",
+      "comply"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "allocate",
+      "anticipate",
+      "contradict",
+      "sustain"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "contradict",
+      "anticipate",
+      "assess",
+      "compensate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "assess",
+      "collaborate",
+      "anticipate",
+      "compensate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "comply",
+      "advocate",
+      "violate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "anticipate",
+      "disclose",
+      "inhibit",
+      "retain"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "inhibit",
+      "allocate",
+      "speculate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "anticipate",
+      "comply",
+      "violate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "endorse",
+      "deteriorate",
+      "sustain",
+      "contradict"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "implement",
+      "refine",
+      "allocate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "speculate",
+      "compensate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "retain",
+      "comply",
+      "contradict",
+      "advocate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "sustain",
+      "collaborate",
+      "deteriorate",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "advocate",
+      "disclose",
+      "assess",
+      "refine"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "mitigate",
+      "implement",
+      "assess",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "violate",
+      "implement",
+      "retain",
+      "disclose"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "compensate",
+      "contradict",
+      "deteriorate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "comply",
+      "deteriorate",
+      "refine",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "mitigate",
+      "compensate",
+      "endorse",
+      "advocate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "violate",
+      "speculate",
+      "comply",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "compensate",
+      "deteriorate",
+      "assess",
+      "implement"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "alleviate",
+      "violate",
+      "allocate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "anticipate",
+      "collaborate",
+      "disclose",
+      "violate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "sustain",
+      "collaborate",
+      "refine",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "implement",
+      "inhibit",
+      "retain",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "disclose",
+      "contradict",
+      "advocate",
+      "retain"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "disclose",
+      "compensate",
+      "speculate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "disclose",
+      "inhibit",
+      "comply",
+      "violate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "violate",
+      "refine",
+      "contradict",
+      "speculate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "refine",
+      "anticipate",
+      "mitigate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "advocate",
+      "anticipate",
+      "implement"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "sustain",
+      "compensate",
+      "advocate",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "comply",
+      "endorse",
+      "sustain",
+      "speculate"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "allocate",
+      "mitigate",
+      "contradict",
+      "disclose"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "endorse",
+      "alleviate",
+      "disclose",
+      "contradict"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "contradict",
+      "implement",
+      "anticipate",
+      "comply"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "compensate",
+      "collaborate",
+      "deteriorate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "contradict",
+      "advocate",
+      "retain",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "endorse",
+      "refine",
+      "speculate",
+      "advocate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "contradict",
+      "assess",
+      "violate",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "retain",
+      "speculate",
+      "contradict",
+      "assess"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "collaborate",
+      "disclose",
+      "allocate",
+      "compensate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "disclose",
+      "sustain",
+      "deteriorate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "speculate",
+      "violate",
+      "retain",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "speculate",
+      "retain",
+      "inhibit",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "disclose",
+      "retain",
+      "assess",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "compensate",
+      "assess",
+      "endorse",
+      "speculate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "comply",
+      "retain",
+      "sustain",
+      "allocate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "sustain",
+      "disclose",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "sustain",
+      "refine",
+      "inhibit",
+      "endorse"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "sustain",
+      "speculate",
+      "mitigate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "alleviate",
+      "advocate",
+      "inhibit",
+      "speculate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "contradict",
+      "sustain",
+      "retain",
+      "advocate"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "mitigate",
+      "disclose",
+      "anticipate",
+      "retain"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "inhibit",
+      "compensate",
+      "alleviate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "endorse",
+      "retain",
+      "compensate",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "allocate",
+      "mitigate",
+      "sustain",
+      "compensate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "deteriorate",
+      "endorse",
+      "comply",
+      "assess"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "compensate",
+      "endorse",
+      "assess",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "compensate",
+      "violate",
+      "retain",
+      "implement"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "assess",
+      "contradict",
+      "advocate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "violate",
+      "compensate",
+      "allocate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "anticipate",
+      "inhibit",
+      "advocate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "collaborate",
+      "comply",
+      "endorse",
+      "sustain"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "inhibit",
+      "retain",
+      "sustain",
+      "assess"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "retain",
+      "allocate",
+      "disclose",
+      "compensate"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "mitigate",
+      "assess",
+      "alleviate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "comply",
+      "implement",
+      "violate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "speculate",
+      "anticipate",
+      "collaborate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "refine",
+      "advocate",
+      "allocate",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "anticipate",
+      "mitigate",
+      "contradict",
+      "comply"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "anticipate",
+      "advocate",
+      "violate",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "retain",
+      "compensate",
+      "comply",
+      "sustain"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "disclose",
+      "mitigate",
+      "contradict",
+      "comply"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "comply",
+      "disclose",
+      "refine",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "compensate",
+      "mitigate",
+      "comply",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "compensate",
+      "alleviate",
+      "collaborate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "violate",
+      "endorse",
+      "deteriorate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "compensate",
+      "endorse",
+      "assess",
+      "advocate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "inhibit",
+      "violate",
+      "alleviate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "allocate",
+      "assess",
+      "anticipate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "allocate",
+      "speculate",
+      "contradict",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "allocate",
+      "mitigate",
+      "anticipate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "alleviate",
+      "compensate",
+      "collaborate",
+      "retain"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "disclose",
+      "allocate",
+      "inhibit",
+      "retain"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "allocate",
+      "sustain",
+      "assess",
+      "retain"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "anticipate",
+      "speculate",
+      "alleviate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "contradict",
+      "comply",
+      "alleviate",
+      "assess"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "disclose",
+      "implement",
+      "compensate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "collaborate",
+      "refine",
+      "advocate",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "refine",
+      "contradict",
+      "mitigate",
+      "implement"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "endorse",
+      "advocate",
+      "sustain",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "advocate",
+      "collaborate",
+      "sustain",
+      "speculate"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "disclose",
+      "anticipate",
+      "refine",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "alleviate",
+      "sustain",
+      "assess",
+      "compensate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "retain",
+      "implement",
+      "inhibit",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "compensate",
+      "contradict",
+      "collaborate",
+      "implement"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "deteriorate",
+      "disclose",
+      "alleviate",
+      "retain"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "violate",
+      "endorse",
+      "compensate",
+      "implement"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "anticipate",
+      "violate",
+      "alleviate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "inhibit",
+      "alleviate",
+      "deteriorate",
+      "assess"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "comply",
+      "compensate",
+      "violate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "anticipate",
+      "advocate",
+      "violate",
+      "retain"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "sustain",
+      "deteriorate",
+      "collaborate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "inhibit",
+      "assess",
+      "contradict",
+      "retain"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "speculate",
+      "disclose",
+      "retain",
+      "comply"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "sustain",
+      "assess",
+      "speculate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "comply",
+      "sustain",
+      "anticipate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "mitigate",
+      "compensate",
+      "inhibit",
+      "contradict"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "contradict",
+      "endorse",
+      "anticipate",
+      "refine"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "disclose",
+      "retain",
+      "deteriorate",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "collaborate",
+      "advocate",
+      "assess",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "anticipate",
+      "implement",
+      "violate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "disclose",
+      "anticipate",
+      "implement",
+      "allocate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "alleviate",
+      "endorse",
+      "assess",
+      "retain"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "compensate",
+      "speculate",
+      "disclose",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "retain",
+      "compensate",
+      "sustain",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "implement",
+      "advocate",
+      "deteriorate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "alleviate",
+      "endorse",
+      "violate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "mitigate",
+      "collaborate",
+      "allocate",
+      "violate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "compensate",
+      "assess",
+      "violate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "collaborate",
+      "contradict",
+      "allocate",
+      "endorse"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "refine",
+      "anticipate",
+      "collaborate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "allocate",
+      "mitigate",
+      "sustain",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "alleviate",
+      "inhibit",
+      "endorse",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "retain",
+      "inhibit",
+      "deteriorate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "deteriorate",
+      "speculate",
+      "inhibit",
+      "assess"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "assess",
+      "comply",
+      "endorse",
+      "disclose"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "comply",
+      "contradict",
+      "allocate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "disclose",
+      "advocate",
+      "refine",
+      "violate"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "contradict",
+      "anticipate",
+      "retain",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "contradict",
+      "compensate",
+      "advocate",
+      "refine"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "allocate",
+      "deteriorate",
+      "alleviate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "implement",
+      "sustain",
+      "deteriorate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "retain",
+      "alleviate",
+      "endorse",
+      "contradict"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "endorse",
+      "retain",
+      "refine",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "anticipate",
+      "sustain",
+      "comply",
+      "compensate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "alleviate",
+      "speculate",
+      "deteriorate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "endorse",
+      "contradict",
+      "deteriorate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "violate",
+      "allocate",
+      "advocate",
+      "refine"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "comply",
+      "inhibit",
+      "assess",
+      "retain"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "advocate",
+      "violate",
+      "allocate",
+      "compensate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "anticipate",
+      "allocate",
+      "implement",
+      "assess"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "refine",
+      "violate",
+      "deteriorate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "anticipate",
+      "inhibit",
+      "advocate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "speculate",
+      "violate",
+      "compensate",
+      "retain"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "deteriorate",
+      "speculate",
+      "refine",
+      "allocate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "speculate",
+      "endorse",
+      "retain",
+      "comply"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "violate",
+      "speculate",
+      "comply"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "collaborate",
+      "alleviate",
+      "refine",
+      "violate"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "alleviate",
+      "allocate",
+      "mitigate",
+      "advocate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "alleviate",
+      "endorse",
+      "advocate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "sustain",
+      "contradict",
+      "refine",
+      "disclose"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "disclose",
+      "implement",
+      "retain",
+      "contradict"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "implement",
+      "inhibit",
+      "refine",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "disclose",
+      "retain",
+      "speculate",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "contradict",
+      "compensate",
+      "disclose",
+      "sustain"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "deteriorate",
+      "assess",
+      "collaborate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "refine",
+      "speculate",
+      "endorse",
+      "assess"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "comply",
+      "violate",
+      "advocate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "compensate",
+      "comply",
+      "assess",
+      "disclose"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "compensate",
+      "sustain",
+      "allocate",
+      "retain"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "inhibit",
+      "allocate",
+      "anticipate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "speculate",
+      "endorse",
+      "allocate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "comply",
+      "disclose",
+      "advocate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "implement",
+      "retain",
+      "sustain",
+      "comply"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "speculate",
+      "contradict",
+      "anticipate",
+      "compensate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "comply",
+      "compensate",
+      "assess",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "collaborate",
+      "violate",
+      "anticipate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "disclose",
+      "anticipate",
+      "refine",
+      "advocate"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "endorse",
+      "comply",
+      "sustain",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "refine",
+      "implement",
+      "advocate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "anticipate",
+      "speculate",
+      "sustain",
+      "refine"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "violate",
+      "advocate",
+      "disclose",
+      "speculate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "implement",
+      "retain",
+      "contradict",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "assess",
+      "alleviate",
+      "compensate",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "alleviate",
+      "compensate",
+      "speculate",
+      "assess"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "violate",
+      "refine",
+      "deteriorate",
+      "retain"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "contradict",
+      "endorse",
+      "refine",
+      "comply"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "retain",
+      "inhibit",
+      "violate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "speculate",
+      "anticipate",
+      "assess",
+      "sustain"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "violate",
+      "speculate",
+      "allocate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "anticipate",
+      "inhibit",
+      "implement",
+      "speculate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "speculate",
+      "implement",
+      "retain",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "retain",
+      "inhibit",
+      "assess",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "inhibit",
+      "contradict",
+      "retain",
+      "sustain"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "inhibit",
+      "retain",
+      "advocate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "implement",
+      "compensate",
+      "comply",
+      "retain"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "implement",
+      "deteriorate",
+      "contradict",
+      "allocate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "mitigate",
+      "disclose",
+      "violate",
+      "refine"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "disclose",
+      "compensate",
+      "comply",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "violate",
+      "deteriorate",
+      "refine",
+      "advocate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "allocate",
+      "speculate",
+      "sustain",
+      "contradict"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "disclose",
+      "violate",
+      "advocate",
+      "comply"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "alleviate",
+      "collaborate",
+      "endorse",
+      "disclose"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "violate",
+      "inhibit",
+      "anticipate",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "compensate",
+      "sustain",
+      "implement",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "advocate",
+      "deteriorate",
+      "assess",
+      "endorse"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "allocate",
+      "contradict",
+      "assess",
+      "endorse"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "violate",
+      "sustain",
+      "alleviate",
+      "advocate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "contradict",
+      "refine",
+      "mitigate",
+      "assess"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "contradict",
+      "allocate",
+      "retain",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "anticipate",
+      "refine",
+      "inhibit",
+      "allocate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "violate",
+      "refine",
+      "collaborate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "inhibit",
+      "collaborate",
+      "endorse",
+      "comply"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "retain",
+      "comply",
+      "mitigate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "endorse",
+      "speculate",
+      "deteriorate",
+      "comply"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "sustain",
+      "comply",
+      "mitigate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "refine",
+      "endorse",
+      "disclose"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "refine",
+      "endorse",
+      "allocate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "allocate",
+      "anticipate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "compensate",
+      "advocate",
+      "disclose",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "contradict",
+      "alleviate",
+      "deteriorate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "violate",
+      "retain",
+      "endorse",
+      "disclose"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "implement",
+      "compensate",
+      "alleviate",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "implement",
+      "advocate",
+      "disclose",
+      "compensate"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "advocate",
+      "compensate",
+      "assess",
+      "speculate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "alleviate",
+      "comply",
+      "deteriorate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "compensate",
+      "endorse",
+      "contradict",
+      "assess"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "anticipate",
+      "deteriorate",
+      "inhibit",
+      "violate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "comply",
+      "assess",
+      "mitigate",
+      "retain"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "alleviate",
+      "allocate",
+      "mitigate",
+      "compensate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "compensate",
+      "collaborate",
+      "anticipate",
+      "violate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "collaborate",
+      "assess",
+      "allocate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "disclose",
+      "inhibit",
+      "violate",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "compensate",
+      "violate",
+      "retain",
+      "sustain"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "assess",
+      "inhibit",
+      "mitigate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "comply",
+      "alleviate",
+      "assess",
+      "contradict"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "speculate",
+      "anticipate",
+      "contradict",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "compensate",
+      "inhibit",
+      "contradict",
+      "refine"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "comply",
+      "implement",
+      "refine",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "retain",
+      "advocate",
+      "speculate",
+      "violate"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "collaborate",
+      "speculate",
+      "sustain",
+      "allocate"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "refine",
+      "disclose",
+      "endorse",
+      "sustain"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "endorse",
+      "alleviate",
+      "assess",
+      "implement"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "violate",
+      "refine",
+      "advocate",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "allocate",
+      "disclose",
+      "compensate",
+      "endorse"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "deteriorate",
+      "collaborate",
+      "endorse",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "retain",
+      "endorse",
+      "deteriorate",
+      "refine"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "collaborate",
+      "mitigate",
+      "endorse",
+      "violate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "assess",
+      "inhibit",
+      "retain",
+      "disclose"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "mitigate",
+      "sustain",
+      "speculate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "endorse",
+      "anticipate",
+      "deteriorate",
+      "comply"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "anticipate",
+      "assess",
+      "refine",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "comply",
+      "anticipate",
+      "inhibit",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "anticipate",
+      "assess",
+      "retain",
+      "disclose"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "disclose",
+      "speculate",
+      "assess",
+      "comply"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "comply",
+      "alleviate",
+      "implement",
+      "sustain"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "allocate",
+      "contradict",
+      "inhibit",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "refine",
+      "allocate",
+      "speculate",
+      "violate"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "sustain",
+      "refine",
+      "mitigate",
+      "advocate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "alleviate",
+      "advocate",
+      "implement",
+      "refine"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "mitigate",
+      "implement",
+      "sustain",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "anticipate",
+      "contradict",
+      "speculate",
+      "disclose"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "collaborate",
+      "mitigate",
+      "alleviate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "violate",
+      "contradict",
+      "speculate",
+      "implement"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "sustain",
+      "compensate",
+      "inhibit",
+      "speculate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "comply",
+      "speculate",
+      "endorse",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "speculate",
+      "allocate",
+      "anticipate",
+      "endorse"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "inhibit",
+      "implement",
+      "contradict",
+      "violate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "sustain",
+      "disclose",
+      "mitigate",
+      "assess"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "retain",
+      "contradict",
+      "allocate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "anticipate",
+      "allocate",
+      "sustain",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "assess",
+      "endorse",
+      "collaborate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "inhibit",
+      "comply",
+      "assess",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "retain",
+      "anticipate",
+      "assess",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "speculate",
+      "retain",
+      "disclose",
+      "comply"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "allocate",
+      "alleviate",
+      "comply",
+      "disclose"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "sustain",
+      "advocate",
+      "allocate"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "collaborate",
+      "alleviate",
+      "refine",
+      "sustain"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "deteriorate",
+      "alleviate",
+      "contradict",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "advocate",
+      "contradict",
+      "comply",
+      "disclose"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "advocate",
+      "anticipate",
+      "retain",
+      "sustain"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "refine",
+      "disclose",
+      "sustain",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "assess",
+      "retain",
+      "endorse",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "implement",
+      "violate",
+      "collaborate",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "comply",
+      "mitigate",
+      "disclose",
+      "compensate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "deteriorate",
+      "comply",
+      "retain",
+      "allocate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "endorse",
+      "advocate",
+      "comply",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "violate",
+      "endorse",
+      "compensate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "assess",
+      "advocate",
+      "contradict",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "allocate",
+      "refine",
+      "deteriorate",
+      "implement"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "retain",
+      "anticipate",
+      "contradict",
+      "refine"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "collaborate",
+      "contradict",
+      "assess",
+      "allocate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "allocate",
+      "inhibit",
+      "violate",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "allocate",
+      "retain",
+      "deteriorate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "violate",
+      "speculate",
+      "deteriorate",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "retain",
+      "speculate",
+      "comply",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "comply",
+      "allocate",
+      "assess"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "alleviate",
+      "refine",
+      "sustain",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "refine",
+      "retain",
+      "implement",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "deteriorate",
+      "advocate",
+      "speculate",
+      "comply"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "mitigate",
+      "assess",
+      "advocate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "retain",
+      "refine",
+      "disclose",
+      "allocate"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "alleviate",
+      "sustain",
+      "advocate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "anticipate",
+      "refine",
+      "implement",
+      "advocate"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "compensate",
+      "disclose",
+      "inhibit",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "endorse",
+      "violate",
+      "deteriorate",
+      "assess"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "comply",
+      "inhibit",
+      "contradict",
+      "endorse"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "allocate",
+      "advocate",
+      "violate",
+      "contradict"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "comply",
+      "assess",
+      "mitigate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "refine",
+      "allocate",
+      "sustain",
+      "advocate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "deteriorate",
+      "advocate",
+      "anticipate",
+      "comply"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "advocate",
+      "contradict",
+      "mitigate",
+      "collaborate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "deteriorate",
+      "allocate",
+      "assess",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "violate",
+      "speculate",
+      "inhibit",
+      "retain"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "sustain",
+      "endorse",
+      "violate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "contradict",
+      "violate",
+      "comply",
+      "endorse"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "refine",
+      "compensate",
+      "endorse"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "alleviate",
+      "refine",
+      "implement",
+      "mitigate"
+    ]
+  },
+  {
+    "word": "軽減する",
+    "pronunciation": "/ˈmɪtɪˌɡeɪt/",
+    "synonyms": [
+      "alleviate",
+      "ease",
+      "moderate"
+    ],
+    "correct": "mitigate",
+    "options": [
+      "mitigate",
+      "violate",
+      "sustain",
+      "allocate"
+    ]
+  },
+  {
+    "word": "支持する",
+    "pronunciation": "/ˈædvəkət/",
+    "synonyms": [
+      "support",
+      "recommend",
+      "champion"
+    ],
+    "correct": "advocate",
+    "options": [
+      "anticipate",
+      "advocate",
+      "implement",
+      "inhibit"
+    ]
+  },
+  {
+    "word": "維持する",
+    "pronunciation": "/səˈsteɪn/",
+    "synonyms": [
+      "maintain",
+      "uphold",
+      "continue"
+    ],
+    "correct": "sustain",
+    "options": [
+      "comply",
+      "sustain",
+      "refine",
+      "endorse"
+    ]
+  },
+  {
+    "word": "開示する",
+    "pronunciation": "/dɪsˈkloʊz/",
+    "synonyms": [
+      "reveal",
+      "divulge",
+      "uncover"
+    ],
+    "correct": "disclose",
+    "options": [
+      "refine",
+      "disclose",
+      "anticipate",
+      "sustain"
+    ]
+  },
+  {
+    "word": "緩和する",
+    "pronunciation": "/əˈliːviˌeɪt/",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "mitigate"
+    ],
+    "correct": "alleviate",
+    "options": [
+      "contradict",
+      "violate",
+      "mitigate",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "実行する",
+    "pronunciation": "/ˈɪmpləˌmɛnt/",
+    "synonyms": [
+      "execute",
+      "carry out",
+      "enforce"
+    ],
+    "correct": "implement",
+    "options": [
+      "violate",
+      "implement",
+      "allocate",
+      "retain"
+    ]
+  },
+  {
+    "word": "補償する",
+    "pronunciation": "/ˈkɒmpənˌseɪt/",
+    "synonyms": [
+      "reimburse",
+      "repay",
+      "make up for"
+    ],
+    "correct": "compensate",
+    "options": [
+      "anticipate",
+      "violate",
+      "compensate",
+      "assess"
+    ]
+  },
+  {
+    "word": "悪化する",
+    "pronunciation": "/dɪˈtɪriəˌreɪt/",
+    "synonyms": [
+      "decline",
+      "worsen",
+      "degrade"
+    ],
+    "correct": "deteriorate",
+    "options": [
+      "comply",
+      "deteriorate",
+      "mitigate",
+      "violate"
+    ]
+  },
+  {
+    "word": "承認する",
+    "pronunciation": "/ɪnˈdɔːrs/",
+    "synonyms": [
+      "approve",
+      "support",
+      "recommend"
+    ],
+    "correct": "endorse",
+    "options": [
+      "deteriorate",
+      "mitigate",
+      "contradict",
+      "endorse"
+    ]
+  },
+  {
+    "word": "違反する",
+    "pronunciation": "/ˈvaɪəˌleɪt/",
+    "synonyms": [
+      "breach",
+      "infringe",
+      "disobey"
+    ],
+    "correct": "violate",
+    "options": [
+      "sustain",
+      "speculate",
+      "violate",
+      "advocate"
+    ]
+  },
+  {
+    "word": "評価する",
+    "pronunciation": "/əˈsɛs/",
+    "synonyms": [
+      "evaluate",
+      "appraise",
+      "judge"
+    ],
+    "correct": "assess",
+    "options": [
+      "disclose",
+      "assess",
+      "deteriorate",
+      "speculate"
+    ]
+  },
+  {
+    "word": "割り当てる",
+    "pronunciation": "/ˈæləˌkeɪt/",
+    "synonyms": [
+      "assign",
+      "distribute",
+      "allot"
+    ],
+    "correct": "allocate",
+    "options": [
+      "inhibit",
+      "sustain",
+      "allocate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "予期する",
+    "pronunciation": "/ænˈtɪsəˌpeɪt/",
+    "synonyms": [
+      "expect",
+      "foresee",
+      "predict"
+    ],
+    "correct": "anticipate",
+    "options": [
+      "compensate",
+      "contradict",
+      "sustain",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "協力する",
+    "pronunciation": "/kəˈlæbəˌreɪt/",
+    "synonyms": [
+      "cooperate",
+      "work together",
+      "team up"
+    ],
+    "correct": "collaborate",
+    "options": [
+      "disclose",
+      "endorse",
+      "collaborate",
+      "anticipate"
+    ]
+  },
+  {
+    "word": "抑制する",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "synonyms": [
+      "restrain",
+      "prevent",
+      "suppress"
+    ],
+    "correct": "inhibit",
+    "options": [
+      "retain",
+      "inhibit",
+      "implement",
+      "assess"
+    ]
+  },
+  {
+    "word": "保持する",
+    "pronunciation": "/rɪˈteɪn/",
+    "synonyms": [
+      "keep",
+      "maintain",
+      "preserve"
+    ],
+    "correct": "retain",
+    "options": [
+      "endorse",
+      "disclose",
+      "advocate",
+      "retain"
+    ]
+  },
+  {
+    "word": "推測する",
+    "pronunciation": "/ˈspɛkjəˌleɪt/",
+    "synonyms": [
+      "guess",
+      "theorize",
+      "conjecture"
+    ],
+    "correct": "speculate",
+    "options": [
+      "retain",
+      "advocate",
+      "speculate",
+      "deteriorate"
+    ]
+  },
+  {
+    "word": "従う",
+    "pronunciation": "/kəmˈplaɪ/",
+    "synonyms": [
+      "obey",
+      "conform",
+      "follow"
+    ],
+    "correct": "comply",
+    "options": [
+      "alleviate",
+      "speculate",
+      "contradict",
+      "comply"
+    ]
+  },
+  {
+    "word": "矛盾する",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "synonyms": [
+      "deny",
+      "oppose",
+      "dispute"
+    ],
+    "correct": "contradict",
+    "options": [
+      "contradict",
+      "compensate",
+      "refine",
+      "assess"
+    ]
+  },
+  {
+    "word": "洗練する",
+    "pronunciation": "/rɪˈfaɪn/",
+    "synonyms": [
+      "improve",
+      "polish",
+      "perfect"
+    ],
+    "correct": "refine",
+    "options": [
+      "contradict",
+      "assess",
+      "allocate",
+      "refine"
+    ]
+  }
+]
